@@ -1,0 +1,16 @@
+{
+    "client": {
+      "id": "12345",
+      "name": "Client ABC",
+      "industry": "Real Estate",
+      "lead_generation": 250,
+      "service_utilization": 33.6,
+      "feedback": "Positive"
+    },
+    "analysis": {
+      "summary": "Client has a strong engagement with the platform, but there are concerns about technical issues that need to be addressed.",
+      "service_utilization": "33.6 indicates some unused potential.",
+      "platform_satisfaction": "High satisfaction overall, but some technical difficulties with ad management.",
+      "relationship_satisfaction": "Client sentiment is positive, but more support is needed in video marketing."
+    }
+  }
