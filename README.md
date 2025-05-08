@@ -19,6 +19,5 @@ A Ruby-based tool that uses OpenAI’s Assistants v2 API to analyze JSON files a
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/openai-assistant-json-analyzer.git
+git clone https://github.com/githubhamza/openai-assistant-json-analyzer.git
 cd openai-assistant-json-analyzer
-bundle install
